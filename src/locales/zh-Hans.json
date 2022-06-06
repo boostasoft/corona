@@ -1,0 +1,103 @@
+{
+
+    "dialog_app": {
+        "new_version": {
+            "title": "应用程序更新",
+            "desc": "新版本的应用程序已经推出",
+            "ok": "立即下载",
+            "cancel": "以后记得我"
+        }
+    },
+    "home": {
+        "tips_tab_title": "信息",
+        "news_tab_title": "新闻中心",
+        "stats_tab_title": "统计数据"
+    },
+    "statistics": {
+        "died": "死亡人数",
+        "healed": "收回的",
+        "case": {
+            "singular": "案例",
+            "plural": "案例"
+        },
+        "search": {
+            "placeholder": "搜索一个国家或地区",
+            "no_results": "没有搜索结果"
+        },
+        "no_data": "检查您的网络连接",
+        "coronaCases": "COVID-19案件",
+        "deaths": "死亡人数",
+        "recovered": "收回的",
+        "newCases": "新案例",
+        "newDeaths": "新死亡人数",
+        "activeCases": "正在处理的案件",
+        "criticalCases": "重大案件",
+        "filters": {
+            "filterBy": "筛选",
+            "values": {
+                "country": "支付/区域",
+                "deaths": "死亡",
+                "cases": "案件",
+                "recoveries": "回收"
+            }
+        },
+
+        "individual": {
+            "title": "国家或地区的统计数字",
+            "cases": "案件",
+            "total": "统计总数",
+            "today": "今天",
+            "confirmed": "证实",
+
+            "recoveries": "回收",
+            "deaths": "死亡",
+            "critical": "关键",
+            "calculated_stats": "计算统计",
+            "death_rate": "死亡率",
+            "recovered_death_ratio": "康复/死亡比率",
+            "recovery_rate": "回收率",
+            "case_density": "每100万人口中的病例数",
+            "cases_per_day": "每天的案例",
+            "deaths_per_day": "每天的死亡人数"
+        }
+    },
+    "infos": {
+        "symptoms": "症状",
+        "preventions": "预防措施",
+        "treatments": "治疗"
+    },
+    "symptoms": {
+        "common_symptoms": "最常见的症状",
+        "others_symptoms": "其他症状",
+        "text_1": "COVID-19的特征是一系列症状，包括：",
+        "fever": "发热",
+        "sorethroat": "喉咙痛",
+        "cough": "干咳和疲劳",
+        "runnynose": "鼻腔分泌物",
+        "difficultybreathing": "呼吸困难（严重病例）",
+        "text_2": "这些症状通常很轻微，并逐渐开始。有些人被感染了，但不会出现任何症状，也不会感到不舒服。大多数人（约80%）无需特殊治疗即可康复。大约每6个感染COVID-19的人中就有1个人病情严重，出现呼吸困难。老年人和那些有潜在疾病的人，如高血压、心脏病或糖尿病，更有可能出现严重的疾病。有发烧、咳嗽和呼吸困难的人，应按照当地卫生部门的建议就医。"
+    },
+    "preventions": {
+        "text_1": "通过世卫组织网站以及国家和地方公共卫生机构，及时了解COVID-19疫情的最新信息。COVID-19病例已在许多国家发生，一些国家已受到疫情影响。在中国和其他一些国家，当局能够减缓或阻止疫情的发展。但事态发展难以预料，应定期了解情况。",
+        "text_2": "您可以通过采取一些简单的预防措施来降低感染或传播COVID-19的风险。",
+        "prevention_1": "经常用水酒精溶液或肥皂和水彻底清洗双手。",
+        "prevention_2": "遵循社交距离的建议，你和任何与你非同一家庭的人之间至少保持1米（3英尺）的距离。",
+        "prevention_3": "避免接触鼻子、眼睛和嘴巴。",
+        "prevention_4": "如果你觉得不舒服，就呆在家里。如果出现发烧、咳嗽和呼吸急促的情况，请在打电话后看医生。遵照当地卫生部门的指示。",
+        "prevention_5": "经常了解自己的情况，了解哪些城市或地区的COVID-19正在大规模传播。如果可能的话，请避免旅行，特别是如果您是老年人或有潜在的健康问题（包括但不限于糖尿病、心脏和肺部疾病）。",
+        "prevention_6": "确保你和周围的人遵守呼吸道卫生规则。如果你咳嗽或打喷嚏，用肘部的褶皱或干净的纸巾捂住口鼻，并在事后立即扔掉纸巾。"
+    },
+    "treatements": {
+        "text_1": "目前没有特定的药物可以预防或治疗COVID-19疾病。受影响的人可能需要支持性治疗来帮助他们呼吸。",
+        "text_2": "自我保健",
+        "text_3": " 如果你的症状很轻，就待在家里，直到你痊愈。以下是缓解症状的方法。",
+        "treatment_1": "休息和睡眠",
+        "treatment_2": "保暖",
+        "treatment_3": "饮用大量液体",
+        "treatment_4": "使用加湿器或洗热水澡，有助于缓解喉咙痛和咳嗽。"
+    },
+    "open_url": {
+        "failed": "我们无法打开这个URL"
+    },
+    "info_source": "资料来源：世卫组织网站()，2020年5月24日访问。卫生组织网站(https://www.who.int)，2020年5月24日访问。"
+}

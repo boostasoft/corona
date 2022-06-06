@@ -1,0 +1,87 @@
+{
+    "name": "corona",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "android": "react-native run-android",
+        "ios": "react-native run-ios",
+        "start": "react-native start",
+        "postinstall": "npx jetify",
+        "test": "jest",
+        "lint": "eslint ."
+    },
+    "dependencies": {
+        "@react-native-community/masked-view": "^0.1.9",
+        "@react-navigation/material-top-tabs": "^5.1.8",
+        "@react-navigation/native": "^5.1.5",
+        "@react-navigation/stack": "^5.2.10",
+        "@types/react-native-i18n": "^2.0.0",
+        "@types/react-native-uuid": "^1.4.0",
+        "buffer": "^5.6.0",
+        "es6-promise": "^4.2.8",
+        "mobx": "^5.15.4",
+        "mobx-react": "^6.2.2",
+        "react": "16.11.0",
+        "react-native": "0.62.1",
+        "react-native-admob": "^2.0.0-beta.6",
+        "react-native-chart-kit": "^5.3.1",
+        "react-native-device-info": "^5.5.8",
+        "react-native-gesture-handler": "^1.6.1",
+        "react-native-i18n": "^2.0.15",
+        "react-native-modal": "^11.5.6",
+        "react-native-paper": "^3.8.0",
+        "react-native-reanimated": "^1.8.0",
+        "react-native-safe-area-context": "^0.7.3",
+        "react-native-screens": "^2.4.0",
+        "react-native-splash-screen": "^3.2.0",
+        "react-native-svg": "^12.1.0",
+        "react-native-svg-flagkit": "^0.9.5",
+        "react-native-tab-view": "^2.14.0",
+        "react-native-uuid": "^1.4.9",
+        "react-native-vector-icons": "^6.6.0",
+        "react-native-version-info": "^1.0.1",
+        "rn-fetch-blob": "^0.12.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/runtime": "^7.9.2",
+        "@react-native-community/eslint-config": "^1.0.0",
+        "@types/jest": "^25.2.1",
+        "@types/react": "^16.9.34",
+        "@types/react-native": "^0.62.2",
+        "@types/react-test-renderer": "^16.9.2",
+        "babel-jest": "^25.3.0",
+        "babel-plugin-transform-remove-console": "^6.9.4",
+        "eslint": "^6.8.0",
+        "jest": "^25.3.0",
+        "jetifier": "^1.6.6",
+        "metro-react-native-babel-preset": "^0.59.0",
+        "react-native-typescript-transformer": "^1.2.13",
+        "react-test-renderer": "16.11.0",
+        "ts-jest": "^25.3.1",
+        "typescript": "^3.8.3"
+    },
+    "jest": {
+        "preset": "react-native",
+        "moduleFileExtensions": [
+            "ts",
+            "tsx",
+            "js"
+        ],
+        "transform": {
+            "^.+\\.(js)$": "<rootDir>/node_modules/babel-jest",
+            "\\.(ts|tsx)$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+        },
+        "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$",
+        "testPathIgnorePatterns": [
+            "\\.snap$",
+            "<rootDir>/node_modules/"
+        ],
+        "cacheDirectory": ".jest/cache"
+    },
+    "rnpm": {
+        "assets": [
+            "./src/assets/fonts/NunitoSans"
+        ]
+    }
+}

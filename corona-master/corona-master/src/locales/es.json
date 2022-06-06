@@ -1,0 +1,104 @@
+{
+
+    "dialog_app": {
+        "new_version": {
+            "title": "Actualización de la aplicación",
+            "desc": "Una nueva versión de la aplicación está disponible",
+            "ok": "Descargar ahora",
+            "cancel": "Recuérdame más tarde"
+        }
+    },
+    "home": {
+        "tips_tab_title": "Infos",
+        "news_tab_title": "News",
+        "stats_tab_title": "Estadísticas"
+    },
+    "statistics": {
+        "died": "Muertes",
+        "healed": "Recuperado",
+        "case": {
+            "singular": "Caso",
+            "plural": "Casos"
+        },
+        "search": {
+            "placeholder": "Buscar un país/región",
+            "no_results": "No hay resultados de la búsqueda"
+        },
+        "no_data": "Revise su conexión a Internet",
+        "coronaCases": "Casos COVID-19",
+        "deaths": "Muertes",
+        "recovered": "Recuperado",
+        "newCases": "New Cases",
+        "newDeaths": "Nuevas Muertes",
+        "activeCases": "Casos activos",
+        "criticalCases": "Casos críticos",
+        "filters": {
+            "FilterBy": "filtrar por",
+            "values": {
+                "pays": "país/región",
+                "deaths": "Muertes",
+                "cases": "casos",
+                "recoveries": "recuperaciones"
+            }
+        },
+
+        "individual": {
+            "title": "Estadísticas del país/región",
+            "cases": "casos",
+            "total": "Estadísticas totales",
+            "today": "Hoy",
+            "confirmed": "confirmado",
+
+            "recoveries": "recuperaciones",
+            "deaths": "Muertes",
+            "critical": "crítico",
+            "calculated_stats": "Estadísticas calculadas",
+            "death_rate": "tasa de mortalidad",
+            "recovered_death_ratio": "Relación recuperada/muerte",
+            "recovery_rate": "tasa de recuperación",
+            "case_density": "Casos por cada millón de habitantes",
+            "cases_per_day": "Casos por día",
+            "deaths_per_day": "Muertes por día"
+        }
+    },
+    "infos": {
+        "symptoms": "Síntomas",
+        "preventions": "Prevenciones",
+        "treatments": "Tratamientos"
+    },
+    "symptoms": {
+        "common_symptoms": "Síntomas más comunes",
+        "others_symptoms": "Otros síntomas",
+        "text_1": "COVID-19 se caracteriza por un conjunto de síntomas que incluyen:",
+        "fever": "Fiebre",
+        "sorethroat": "Dolor de garganta",
+        "cough": "Tos seca y fatiga",
+        "runnynose": "Secreción nasal",
+        "difficultybreathing": "Dificultades respiratorias (casos graves)",
+        "text_2": "Estos síntomas suelen ser leves y comienzan gradualmente. Algunas personas se infectan pero no desarrollan ningún síntoma y no se sienten mal. La mayoría de las personas (alrededor del 80%) se recupera de la enfermedad sin necesidad de un tratamiento especial. Alrededor de 1 de cada 6 personas que contraen COVID-19 se enferman gravemente y desarrollan dificultad para respirar. Las personas mayores y las que tienen problemas médicos subyacentes como presión arterial alta, problemas cardíacos o diabetes, tienen más probabilidades de desarrollar una enfermedad grave. Las personas con fiebre, tos y dificultad para respirar deben seguir los consejos de las autoridades sanitarias locales sobre cómo buscar atención médica"
+    },
+    "preventions": {
+        "text_1": "Manténgase al día con la información más reciente sobre el brote de COVID-19, disponible en el sitio web de la OMS y en las autoridades de salud pública nacionales y locales. Se han producido casos de COVID-19 en muchos países y varios países se han visto afectados por brotes. En China y algunos otros países, las autoridades pudieron frenar o detener el avance del brote. Sin embargo, la evolución es imprevisible y es preciso mantenerse informado periódicamente",
+        "text_2": "Puede reducir el riesgo de infectarse o propagar el COVID-19 tomando unas simples precauciones:",
+        "prevention_1": "Lávese las manos frecuentemente y a fondo con una solución hidroalcohólica o con agua y jabón",
+        "prevention_2": "Siga las recomendaciones de distanciamiento social y mantenga al menos 1 metro de distancia entre usted y cualquier persona que no sea de la misma casa que usted",
+        "prevention_3": "Evite tocarse la nariz, los ojos y la boca",
+        "prevention_4": "Si no se siente bien, quédese en casa. En caso de fiebre, tos y falta de aliento, vea a un médico después de llamar. Siga las instrucciones de las autoridades sanitarias locales",
+        "prevention_5": "Manténgase constantemente informado para saber qué ciudades o zonas donde se está propagando COVID-19 a gran escala. Si es posible, evite viajar, especialmente si es una persona mayor o tiene problemas de salud subyacentes (incluyendo pero no limitándose a la diabetes, enfermedades cardíacas y pulmonares)",
+        "prevention_6": "Asegúrate de que tú y la gente que te rodea siga las reglas de higiene respiratoria. Si tose o estornuda, cúbrase la boca y la nariz con el pliegue del codo, o con un pañuelo limpio, y tire el pañuelo inmediatamente después"
+    },
+    
+    "treatements": {
+        "text_1": "No hay ninguna droga específica para prevenir o tratar la enfermedad COVID-19. Las personas afectadas pueden necesitar un tratamiento de apoyo para ayudarles a respirar",
+        "text_2": "Autocuidado",
+        "text_3": "Si tiene síntomas leves, quédese en casa hasta que se cure. Esto es lo que puede hacer para aliviar sus síntomas:",
+        "treatment_1": "Descanse y duerma",
+        "treatment_2": "Manténgase caliente",
+        "treatment_3": "Beber grandes cantidades de líquido",
+        "treatment_4": "Usar un humidificador o tomar una ducha caliente para ayudar a aliviar el dolor de garganta y la tos"
+    },
+    "open_url": {
+        "failed": "No podemos abrir esta URL"
+    },
+    "info_source": "Fuente: Sitio web de la OMS (https://www.who.int), consultado el 24/05/2020"
+}

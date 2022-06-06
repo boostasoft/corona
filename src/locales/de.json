@@ -1,0 +1,103 @@
+{
+
+    "dialog_app": {
+        "new_version": {
+            "title": "App-Aktualisierung",
+            "desc": "Eine neue Version der App ist verfügbar",
+            "ok": "Jetzt herunterladen",
+            "cancel": "Erinnern Sie sich später an mich"
+        }
+    },
+    "home": {
+        "tips_tab_title": "Infos",
+        "news_tab_title": "Nachrichten",
+        "stats_tab_title": "Statistik"
+    },
+    "statistics": {
+        "died": "Todesfälle",
+        "healed": "Zurückgewonnen",
+        "case": {
+            "singular": "Fall",
+            "plural": "Fälle"
+        },
+        "search": {
+            "placeholder": "Ein Land/eine Region suchen",
+            "no_results": "Keine Suchergebnisse"
+        },
+        "no_data": "Überprüfen Sie Ihre Internetverbindung",
+        "coronaCases": "COVID-19 Fälle",
+        "deaths": "Todesfälle",
+        "recovered": "Zurückgewonnen",
+        "newCases": "Neue Fälle",
+        "newDeaths": "Neue Todesfälle",
+        "activeCases": "Aktive Fälle",
+        "criticalCases": "Kritische Fälle",
+        "filters": {
+            "filterBy": "filtern nach",
+            "values": {
+                "country": "Land/Region",
+                "deaths": "Todesfälle",
+                "cases": "Fälle",
+                "recoveries": "Wiederherstellungen"
+            }
+        },
+
+        "individual": {
+            "title": "Länder-/Region-Statistiken",
+            "cases": "Fälle",
+            "total": "Statistik insgesamt",
+            "today": "Heute",
+            "confirmed": "bestätigt",
+
+            "recoveries": "Wiederherstellungen",
+            "deaths": "Todesfälle",
+            "critical": "kritisch",
+            "calculated_stats": "Berechnete Statistiken",
+            "death_rate": "Todesrate",
+            "recovered_death_ratio": "Verhältnis Genesung/Tod",
+            "recovery_rate": "Wiederfindungsrate",
+            "case_density": "Fälle pro 1 Mio. Einwohner",
+            "cases_per_day": "Fälle pro Tag",
+            "deaths_per_day": "Todesfälle pro Tag"
+        }
+    },
+    "infos": {
+        "symptoms": "Symptome",
+        "preventions": "Vorbeugung",
+        "treatments": "Behandlungen"
+    },
+    "symptoms": {
+        "common_symptoms": "Häufigste Symptome",
+        "others_symptoms": "Andere Symptome",
+        "text_1": "COVID-19 ist durch eine Reihe von Symptomen gekennzeichnet, darunter",
+        "fever": "Fieber",
+        "sorethroat": "Halsschmerzen",
+        "cough": "Trockener Husten und Müdigkeit",
+        "runnynose": "Nasenausfluss",
+        "difficultybreathing": "Atembeschwerden (schwere Fälle)",
+        "text_2": "Diese Symptome sind in der Regel mild und beginnen allmählich. Einige Menschen infizieren sich, entwickeln aber keine Symptome und fühlen sich nicht unwohl. Die meisten Menschen (ca. 80%) erholen sich von der Krankheit, ohne dass eine spezielle Behandlung erforderlich ist. Etwa 1 von 6 Personen, die COVID-19 bekommen, wird schwer krank und entwickelt Atembeschwerden. Ältere Menschen und Menschen mit zugrunde liegenden medizinischen Problemen wie Bluthochdruck, Herzproblemen oder Diabetes entwickeln mit größerer Wahrscheinlichkeit eine schwere Erkrankung. Menschen mit Fieber, Husten und Atembeschwerden sollten die Ratschläge der örtlichen Gesundheitsbehörden befolgen, wie sie sich in ärztliche Behandlung begeben sollten."
+    },
+    "preventions": {
+        "text_1": "Halten Sie sich mit den neuesten Informationen über den Ausbruch von COVID-19 auf dem Laufenden, die auf der WHO-Website sowie bei nationalen und lokalen Gesundheitsbehörden erhältlich sind. Fälle von COVID-19 sind in vielen Ländern aufgetreten, und mehrere Länder waren von Ausbrüchen betroffen. In China und einigen anderen Ländern konnten die Behörden das Fortschreiten des Ausbruchs verlangsamen oder stoppen. Die Entwicklungen sind jedoch unvorhersehbar, und Sie sollten sich regelmäßig auf dem Laufenden halten.",
+        "text_2": "Sie können das Risiko, sich zu infizieren oder COVID-19 zu verbreiten, verringern, indem Sie einige einfache Vorsichtsmaßnahmen ergreifen:",
+        "prevention_1": "Waschen Sie sich häufig und gründlich die Hände mit einer hydroalkoholischen Lösung oder mit Seife und Wasser.",
+        "prevention_2": "Befolgen Sie die Empfehlungen zur sozialen Distanzierung und halten Sie einen Mindestabstand von 1 Meter (3 Fuß) zu Personen ein, die nicht aus dem gleichen Haushalt stammen wie Sie.",
+        "prevention_3": "Vermeiden Sie es, Ihre Nase, Augen und Ihren Mund zu berühren.",
+        "prevention_4": "Wenn Sie sich nicht wohl fühlen, bleiben Sie zu Hause. Bei Fieber, Husten und Kurzatmigkeit suchen Sie nach dem Anruf einen Arzt auf. Befolgen Sie die Anweisungen der örtlichen Gesundheitsbehörden.",
+        "prevention_5": "Halten Sie sich ständig auf dem Laufenden, um herauszufinden, in welchen Städten oder Gebieten sich COVID-19 in großem Maßstab verbreitet. Vermeiden Sie, wenn möglich, Reisen, insbesondere wenn Sie älter sind oder gesundheitliche Grunderkrankungen haben (einschließlich, aber nicht beschränkt auf Diabetes, Herz- und Lungenkrankheiten).",
+        "prevention_6": "Achten Sie darauf, dass Sie und die Menschen in Ihrer Umgebung die Regeln der Atemwegshygiene befolgen. Wenn Sie husten oder niesen, bedecken Sie Mund und Nase mit der Ellbogenfalte oder mit einem sauberen Tuch und werfen Sie das Tuch unmittelbar danach weg."
+    },
+    "treatements": {
+        "text_1": "Es gibt kein spezifisches Medikament zur Prävention oder Behandlung der COVID-19-Krankheit. Die Betroffenen benötigen unter Umständen eine unterstützende Behandlung, die ihnen beim Atmen hilft.",
+        "text_2": "Selbstfürsorge",
+        "text_3": "Wenn Sie leichte Symptome haben, bleiben Sie zu Hause, bis Sie geheilt sind. Hier ist, was Sie tun können, um Ihre Symptome zu lindern:",
+        "treatment_1": "Ausruhen und Schlafen",
+        "treatment_2": "Bleiben Sie warm",
+        "treatment_3": "Große Mengen Flüssigkeit trinken",
+        "treatment_4": "Benutzen Sie einen Luftbefeuchter oder nehmen Sie eine heiße Dusche, um Halsschmerzen und Husten zu lindern."
+    },
+    "open_url": {
+        "failed": "Wir können diese URL nicht öffnen."
+    },
+    "info_source": "Quelle: WHO-Website (https://www.who.int), Zugriff am 24/05/2020"
+}

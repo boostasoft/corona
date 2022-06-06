@@ -1,0 +1,101 @@
+{
+    "dialog_app": {
+        "new_version": {
+            "title": "Mise à jour",
+            "desc": "Une nouvelle version de l'application est disponible.",
+            "ok": "Télécharger",
+            "cancel": "Plus tard"
+        }
+    },
+    "home": {
+        "tips_tab_title": "Infos",
+        "news_tab_title": "Actualités",
+        "stats_tab_title": "Stats"
+    },
+    "statistics": {
+        "died": "morts",
+        "healed": "Guéris",
+        "case": {
+            "singular": "Cas",
+            "plural": "Cas"
+        },
+        "search": {
+            "placeholder": "Rechercher un pays/region",
+            "no_results": "Aucun résultat"
+        },
+        "no_data": "Verifiez votre connexion internet",
+        "coronaCases": "Cas de COVID-19",
+        "deaths": "Déces",
+        "recovered": "Guerison",
+        "newCases": "Nouveaux cas",
+        "newDeaths": "Nouveaux déces",
+        "activeCases": "Cas actifs",
+        "criticalCases": "Cas critiques",
+        "filters": {
+            "filterBy": "filtrer par",
+            "values": {
+                "country": "pays/region",
+                "deaths": "morts",
+                "cases": "cas",
+                "recoveries": "guérison"
+            }
+        },
+        "individual": {
+            "title": "Stats du pays/region",
+            "cases": "cas",
+            "total": "Stats total",
+            "today": "Ajourdhui",
+            "confirmed": "confirmés",
+            "recoveries": "guérisons",
+            "deaths": "déces",
+            "critical": "critiques",
+            "calculated_stats": "Stats calculés",
+            "death_rate": "Taux de morts",
+            "recovered_death_ratio": "ratio Guéris/Morts",
+            "recovery_rate": "Taux de guérisons",
+            "cas_density": "cas par million d'habitants",
+            "cases_per_day": "Cas par jour",
+            "deaths_per_day": "Morts par jour"
+        }
+    },
+    "infos": {
+        "symptoms": "Symptômes",
+        "preventions": "Préventions",
+        "treatments": "Traitements"
+    },
+    "symptoms": {
+        "common_symptoms": "Symptômes les plus courants",
+        "others_symptoms": "Autres symptômes",
+        "text_1": "La maladie à coronavirus 2019 (COVID-19) se caractérise par un ensemble de symptômes parmi lesquels:",
+        "fever": "Fièvre",
+        "sorethroat": "Maux de gorge",
+        "cough": "Toux sèche & Fatigue",
+        "runnynose": "Ecoulement nasale",
+        "difficultybreathing": "Difficultés respiratoires (cas sévères)",
+        "text_2": "Ces symptômes sont généralement bénins et apparaissent de manière progressive. Certaines personnes, bien qu’infectées, ne présentent aucun symptôme et se sentent bien. La plupart (environ 80 %) des personnes guérissent sans avoir besoin de traitement particulier. Environ une personne sur six contractant la maladie présente des symptômes plus graves, notamment une dyspnée. Les personnes âgées et celles qui ont d’autres problèmes de santé (hypertension artérielle, problèmes cardiaques ou diabète) ont plus de risques de présenter des symptômes graves. Quiconque a de la fièvre, de la toux ou une difficulté à respirer doit suivre les conseils des autorités locales sur la façon de se faire consulter"
+    },
+    "preventions": {
+        "text_1": "Tenez-vous au courant des dernières informations sur la flambée de COVID-19, disponibles sur le site Web de l’OMS et auprès des autorités de santé publique nationales et locales. Des cas de COVID-19 se sont produits dans de nombreux pays et plusieurs pays ont été touchés par des flambées. En Chine et dans certains autres pays, les autorités sont parvenues à ralentir ou à enrayer la progression de la flambée. Toutefois, l’évolution de la situation est imprévisible et vous devez donc vous tenir régulièrement informé.",
+        "text_2": " Vous pouvez réduire le risque d’être infecté ou de propager la COVID-19 en prenant quelques précautions simples:",
+        "prevention_1": "Se laver fréquemment et soigneusement les mains avec une solution hydroalcoolique ou à l’eau et au savon.",
+        "prevention_2": "Suivez les recommandations de distanciation sociale et maintenez au moins 1 mètre (3 pieds) de distance entre vous et toute personne ne faisant pas partie du même ménage que vous.",
+        "prevention_3": "Éviter de se toucher le nez, les yeux et la bouche.",
+        "prevention_4": "Si vous ne vous sentez pas bien, restez chez vous. En cas de fièvre, de toux et de dyspnée, consultez un médecin après l’avoir appelé. Suivez les instructions des autorités sanitaires locales.",
+        "prevention_5": "Informez-vous constamment pour savoir quelles sont les villes ou les zones où le COVID-19 se propage à grande échelle. Si possible, évitez de voyager, en particulier si vous êtes âgé ou diabétique ou si vous avez une maladie cardiaque ou pulmonaire (sans s'y limiter bien sûr).",
+        "prevention_6": "Veillez à respecter les règles d’hygiène respiratoire et à ce que les personnes autour de vous en fassent autant. En cas de toux ou d’éternuement, il faut se couvrir la bouche et le nez avec le pli du coude, ou avec un mouchoir et jeter le mouchoir immédiatement après."
+    },
+    "treatements": {
+        "text_1": "Il n'existe pas de médicament spécifique permettant de prévenir ou de traiter la maladie à coronavirus 2019 (COVID-19). Les personnes touchées peuvent avoir besoin d'un traitement de soutien pour les aider à respirer.",
+        "text_2": "Soins auto-administrés",
+        "text_3": " Si vous présentez des symptômes bénins, restez chez vous jusqu'à ce que vous soyez guéri. Voici ce que vous pouvez faire pour soulager vos symptômes:",
+        "treatment_1": "Reposez-vous et dormez",
+        "treatment_2": "Restez au chaud",
+        "treatment_3": "Buvez de grandes quantités de liquide",
+        "treatment_4": "Utilisez un humidificateur d'air ambiant ou prenez une douche chaude,pour vous aider à soulager le mal de gorge et la toux"
+    },
+    "open_url": {
+        "failed": "Impossible d'ouvrir cette adresse"
+    },
+    "info_source": "Source : Site web de l'OMS (https://www.who.int), consulté le 24/05/2020"
+
+}

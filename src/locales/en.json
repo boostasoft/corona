@@ -1,0 +1,103 @@
+{
+
+    "dialog_app": {
+        "new_version": {
+            "title": "App update",
+            "desc": "A new version of app is available",
+            "ok": "Download now",
+            "cancel": "Remember me later"
+        }
+    },
+    "home": {
+        "tips_tab_title": "Infos",
+        "news_tab_title": "News",
+        "stats_tab_title": "Statistics"
+    },
+    "statistics": {
+        "died": "Deaths",
+        "healed": "Recovered",
+        "case": {
+            "singular": "Case",
+            "plural": "Cases"
+        },
+        "search": {
+            "placeholder": "Search a country/region",
+            "no_results": "No search results"
+        },
+        "no_data": "Check your internet connection",
+        "coronaCases": "COVID-19 cases",
+        "deaths": "Deaths",
+        "recovered": "Recovered",
+        "newCases": "New Cases",
+        "newDeaths": "New deaths",
+        "activeCases": "Active cases",
+        "criticalCases": "Critical cases",
+        "filters": {
+            "filterBy": "filter by",
+            "values": {
+                "country": "country/region",
+                "deaths": "deaths",
+                "cases": "cases",
+                "recoveries": "recoveries"
+            }
+        },
+
+        "individual": {
+            "title": "Country/Region stats",
+            "cases": "cases",
+            "total": "Total stats",
+            "today": "Today",
+            "confirmed": "confirmed",
+
+            "recoveries": "recoveries",
+            "deaths": "deaths",
+            "critical": "critical",
+            "calculated_stats": "Calculated stats",
+            "death_rate": "death rate",
+            "recovered_death_ratio": "Recovered/Death ratio",
+            "recovery_rate": "recovery rate",
+            "case_density": "Cases per 1M population",
+            "cases_per_day": "Cases per day",
+            "deaths_per_day": "Deaths per day"
+        }
+    },
+    "infos": {
+        "symptoms": "Symptoms",
+        "preventions": "Preventions",
+        "treatments": "Treatments"
+    },
+    "symptoms": {
+        "common_symptoms": "Most common symptoms",
+        "others_symptoms": "Other symptoms",
+        "text_1": "COVID-19 is characterized by a set of symptoms including:",
+        "fever": "Fever",
+        "sorethroat": "Sore throat",
+        "cough": "Dry Cough & Fatigue",
+        "runnynose": "Nasal discharge",
+        "difficultybreathing": "Respiratory difficulties (severe cases)",
+        "text_2": "These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should follow local health authorities advise on how to seek medical attention."
+    },
+    "preventions": {
+        "text_1": "Keep up to date with the latest information on the COVID-19 outbreak, available on the WHO website and from national and local public health authorities. Cases of COVID-19 have occurred in many countries and several countries have been affected by outbreaks. In China and some other countries, the authorities were able to slow or stop the progress of the outbreak. However, developments are unpredictable and you should keep yourself informed on a regular basis.",
+        "text_2": "You can reduce the risk of becoming infected or spreading COVID-19 by taking a few simple precautions:",
+        "prevention_1": "Wash hands frequently and thoroughly with a hydroalcoholic solution or soap and water.",
+        "prevention_2": "Follow social distancing recommendations and maintain at least 1 metre (3 feet) distance between yourself and anyone not from the same household as you.",
+        "prevention_3": "Avoid touching your nose, eyes and mouth.",
+        "prevention_4": "If you don't feel well, stay home. In case of fever, cough and shortness of breath, see a doctor after calling. Follow the instructions of the local health authorities.",
+        "prevention_5": "Keep yourself constantly informed to find out which cities or areas where COVID-19 is spreading on a large scale. If possible, avoid travelling, especially if you are an elderly or have underlying health conditions (include but may not be limited to diabetes, heart, and lung diseases)",
+        "prevention_6": "Make sure that you and the people around you follow the rules of respiratory hygiene. If you cough or sneeze, cover your mouth and nose with the crease of your elbow, or with a clean tissue, and throw away the tissue immediately afterwards."
+    },
+    "treatements": {
+        "text_1": "There is no specific drug to prevent or treat COVID-19 disease. Affected people may need supportive treatment to help them breathe.",
+        "text_2": "Self-care",
+        "text_3": " If you have mild symptoms, stay home until you are cured. Here's what you can do to relieve your symptoms:",
+        "treatment_1": "Rest and sleep",
+        "treatment_2": "Stay warm",
+        "treatment_3": "Drink large amounts of liquid",
+        "treatment_4": "Use a humidifier or take a hot shower to help relieve a sore throat and cough."
+    },
+    "open_url": {
+        "failed": "We can't open this URL"
+    },
+    "info_source": "Source: WHO website (https://www.who.int), accessed on 24/05/2020"
+}

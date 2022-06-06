@@ -1,0 +1,1 @@
+keytool -importkeystore -srckeystore C:\Users\lizzaraga\OneDrive\Bureau\corona\corona\android\app\corona_key_release.jks -destkeystore C:\Users\lizzaraga\OneDrive\Bureau\corona\corona\android\app\corona_key_release.jks -deststoretype pkcs12
